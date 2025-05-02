@@ -11,9 +11,12 @@ Acrylic for Flow Launcher is a simple and modern theme with a nice acrylic blur 
 
 
 
-## 📸 Preview
-![image](https://github.com/user-attachments/assets/7e6184c6-7346-4948-9a56-bf98f32004d0)
-![image](https://github.com/user-attachments/assets/e4231ff7-0fcd-45dd-96fe-068f5482977a)
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/7a1751ff-67ad-4d56-a87a-e7eb07d78260)
+
+![image](https://github.com/user-attachments/assets/8ea10e7f-5dbf-41f6-af54-8eb645d1e571)
+
+![image](https://github.com/user-attachments/assets/17b6a301-b686-47e4-9e69-48a241cdb017)
 
 
 ## 🛠 How to Use
@@ -22,7 +25,7 @@ Acrylic for Flow Launcher is a simple and modern theme with a nice acrylic blur 
 2.  Open Flow Launcher using the shortcut customized to open the search bar (by default, it is alt + space).
 3. Type Flow Launcher UserData Folder and press enter on your keyboard.
 4. A File Explorer window should then open. Open the Themes folder.
-5. Paste the WinUi 3.xaml file you copied earlier.
+5. Paste the WinUI 3.xaml file you copied earlier.
 6. Restart the flow launcher and enjoy the new look!
 
 ## 💡 Notes
