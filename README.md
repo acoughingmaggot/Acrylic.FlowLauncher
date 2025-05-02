@@ -30,7 +30,7 @@ Acrylic for Flow Launcher is a simple and modern theme with a nice acrylic blur 
 
 ## 💡 Notes
 
-This theme was designed with WinUI 3 in mind. It’s perfect for users who like modern, consistent setups.
+This theme was designed with WinUI 3 in mind. Bear in mind, it is also my personal theme, so if you don’t agree with any of my design choices, feel free to adjust it to your liking, but please understand that these choices reflect my personal preferences. This is also my first Flow Launcher theme, so any suggestions or feedback are welcome!
 
 ## 📄 License
 
