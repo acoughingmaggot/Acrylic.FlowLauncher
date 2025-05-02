@@ -12,11 +12,13 @@ Acrylic for Flow Launcher is a simple and modern theme with a nice acrylic blur 
 
 
 ## 📸 Screenshots
-![image](https://github.com/user-attachments/assets/7a1751ff-67ad-4d56-a87a-e7eb07d78260)
+![image](https://github.com/user-attachments/assets/11ec3d2e-76a8-454d-9920-30ded432a45b)
 
-![image](https://github.com/user-attachments/assets/8ea10e7f-5dbf-41f6-af54-8eb645d1e571)
 
-![image](https://github.com/user-attachments/assets/17b6a301-b686-47e4-9e69-48a241cdb017)
+![image](https://github.com/user-attachments/assets/172b0b70-c071-4737-bfdd-30cac7b3d336)
+
+![image](https://github.com/user-attachments/assets/1b05b2dd-ae35-43fd-b910-26a8b4bd4b92)
+
 
 
 ## 🛠 How to Use
