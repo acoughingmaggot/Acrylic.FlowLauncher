@@ -4,11 +4,12 @@ Acrylic for Flow Launcher is a simple and modern theme with a nice acrylic blur 
 
 ## 🌟 Features
 
-- Acrylic-style blur effect (Windows 11 inspired)
-- System accent color
-- WinUI 3-inspired spacing and layout
+- Acrylic/Glassmorphism blur effect
 - Rounded corners
-- Optimized for dark mode
+- System accent color support
+- WinUI 3-inspired spacing and layout
+
+
 
 ## 📸 Preview
 ![image](https://github.com/user-attachments/assets/7e6184c6-7346-4948-9a56-bf98f32004d0)
