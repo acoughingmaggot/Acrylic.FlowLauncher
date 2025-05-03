@@ -27,7 +27,7 @@
         <Setter Property="Background" Value="#66000000"/>
         <Setter Property="CornerRadius" Value="20" />
         <Setter Property="UseLayoutRounding" Value="True" />
-	<Setter Property="Padding" Value="5" />
+	<Setter Property="Padding" Value="4.5" />
     </Style>
     
     <Style
@@ -107,7 +107,7 @@
         BasedOn="{StaticResource BasePendingLineStyle}"
         TargetType="{x:Type Line}">
         <Setter Property="Stroke" Value="{StaticResource SystemAccentColorLight3Brush}" />
-        <Setter Property="StrokeThickness" Value="1" />
+        <Setter Property="StrokeThickness" Value="2" />
     </Style>
     
     
@@ -184,7 +184,7 @@
     <!-- Selected result styles -->
     <SolidColorBrush x:Key="ItemSelectedBackgroundColor">#26FFFFFF</SolidColorBrush>
     <CornerRadius x:Key="ItemRadius">15</CornerRadius>
-    <Thickness x:Key="ItemMargin">8 0 8 0</Thickness>
+    <Thickness x:Key="ItemMargin">6 0 8 0</Thickness>
     
     <!-- Highlighted text -->
     <Style x:Key="HighlightStyle">
