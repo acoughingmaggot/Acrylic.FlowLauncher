@@ -25,7 +25,7 @@ Acrylic for Flow Launcher is a simple and modern theme with a nice acrylic blur 
 
 ## 🛠 How to Use
 
-1. Download the WinUI 3.xaml file above, and save it to the desktop, or any other easily accessible folder on your pc. Right click the file, and copy, as we will need it later on.
+1. Download the WinUI3.xaml file above, and save it to the desktop, or any other easily accessible folder on your pc. Right click the file, and copy, as we will need it later on.
 2. Open Flow Launcher using the shortcut customized to open the search bar (by default, it is alt + space).
 3. Type Flow Launcher UserData Folder and press enter on your keyboard.
 4. A File Explorer window should then open. Open the Themes folder.
