@@ -1,6 +1,6 @@
 <!--
-    Name: WinUI3
-    IsDark: False
+    Name: Win UI 3
+    IsDark: True
     HasBlur: True
 -->
 <ResourceDictionary
@@ -108,6 +108,8 @@
         TargetType="{x:Type Line}">
         <Setter Property="Stroke" Value="{StaticResource SystemAccentColorLight3Brush}" />
         <Setter Property="StrokeThickness" Value="2" />
+	<Setter Property="StrokeStartLineCap" Value="Round" />
+        <Setter Property="StrokeEndLineCap" Value="Round" />
     </Style>
     
     
@@ -139,6 +141,8 @@
         TargetType="{x:Type TextBlock}">
         <Setter Property="Foreground" Value="{StaticResource SystemAccentColorLight3Brush}" />
     </Style>
+
+
     
     <!-- Result subtitle -->
     <Style
@@ -176,15 +180,19 @@
     
     <Style x:Key="ItemGlyphSelectedStyle" TargetType="{x:Type TextBlock}">
         <Setter Property="Foreground" Value="#FFFFFFFF" />
-        <Setter Property="Width" Value="20" />
-        <Setter Property="Height" Value="20" />
-        <Setter Property="FontSize" Value="20" />
+        <Setter Property="Width" Value="25" />
+        <Setter Property="Height" Value="25" />
+        <Setter Property="FontSize" Value="25" />
+	<Setter Property="VerticalAlignment" Value="Center" />
+        <Setter Property="HorizontalAlignment" Value="Center" />
+        
     </Style>
     
     <!-- Selected result styles -->
     <SolidColorBrush x:Key="ItemSelectedBackgroundColor">#26FFFFFF</SolidColorBrush>
     <CornerRadius x:Key="ItemRadius">15</CornerRadius>
-    <Thickness x:Key="ItemMargin">6 0 8 0</Thickness>
+    <Thickness x:Key="ItemMargin">6 3 8 0</Thickness>
+
     
     <!-- Highlighted text -->
     <Style x:Key="HighlightStyle">
@@ -199,7 +207,10 @@
         x:Key="BulletStyle"
         BasedOn="{StaticResource BaseBulletStyle}"
         TargetType="{x:Type Border}">
-        <Setter Property="Visibility" Value="Collapsed" />
+        <Setter Property="Width" Value="4" />
+        <Setter Property="Height" Value="10" />
+        <Setter Property="CornerRadius" Value="2" />
+        <Setter Property="Background" Value="#1CFFFFFF" />
     </Style>
     
     <Style
